@@ -7,7 +7,7 @@ Sou estudante de **Sistemas de Informação** apaixonado por tecnologia, lógica
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação**
-- 💻 Linguagem principal: **C#** (`.NET`, Programação Orientada a Objetos, Algoritmos e Estruturas de Dados)
+- 💻 Linguagem principal: **C#**
 - 🐍 Estudando atualmente: **Python** (lógica, automação e novos projetos)
 - 🌱 Próximos passos: desenvolver meu próprio **projeto de RPG** e criar uma **API** do zero
 - 📂 Por enquanto, uso este perfil principalmente para organizar e versionar meus trabalhos da faculdade — e vou atualizando aqui conforme os novos projetos saírem do papel!
@@ -41,13 +41,6 @@ Repositório onde concentro e documento os trabalhos práticos desenvolvidos ao 
 - **AED2 (C++):** Gerenciador de fichas e grimório (*Online Magic Grimoire*) com ordenação (Bubble Sort), busca linear e seleção.
 - **AED3 — 1º Bimestre (C#):** Implementação completa de **Árvore Binária de Busca (BST)** com percursos, altura, busca e remoção nos 3 casos.
 - **AED3 — 2º Bimestre (C#):** **Gerador Procedural e Analisador de Masmorras com DFS em Grafos** e Backtracking, modo jogável no terminal e exportação de relatório.
-
----
-
-### 🗺️ Próximos Projetos (Roadmap)
-
-- [ ] 🐉 **Projeto de RPG** — Em desenvolvimento (expandindo mecânicas de classes, raças, combate e história)
-- [ ] 🌐 **Desenvolvimento de API** — Em breve (praticando backend e integração de dados)
 
 ---
 
