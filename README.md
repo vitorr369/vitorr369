@@ -41,7 +41,7 @@ Repositório onde concentro e documento os trabalhos práticos desenvolvidos ao 
 - **AED2 (C++):** Gerenciador de fichas e grimório (*Online Magic Grimoire*) com ordenação (Bubble Sort), busca linear e seleção.
 - **AED3 — 1º Bimestre (C#):** Implementação completa de **Árvore Binária de Busca (BST)** com percursos, altura, busca e remoção nos 3 casos.
 - **AED3 — 2º Bimestre (C#):** **Gerador Procedural e Analisador de Masmorras com DFS em Grafos** e Backtracking, modo jogável no terminal e exportação de relatório.
-- **AED3 — 2º Bimestre (C#):** **SoundGraph Pro**, motor de recomendação musical em grafos demonstrando tipos estruturais (simples, multigrafo, pseudografo, completo e DAG), direções, matriz/lista de adjacência, conectividade (BFS), detecção de ciclos (DFS), menor caminho / maior afinidade (BFS e Dijkstra), geração de playlists e exportação de relatório.
+- **AED3 — 2º Bimestre (C#):** **SoundGraph Pro**, motor de recomendação musical em grafos com Player Interativo por setas no terminal, tipos estruturais (simples, multigrafo, pseudografo, completo e DAG), lista/matriz de adjacência paginada, conectividade (BFS), detecção de ciclos (DFS), menor caminho / maior afinidade (BFS e Dijkstra), playlists automáticas e exportação de relatório.
 
 ---
 
